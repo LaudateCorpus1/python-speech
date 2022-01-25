@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-speech/#history
 
+## [2.13.0](https://github.com/googleapis/python-speech/compare/v2.12.0...v2.13.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#313](https://github.com/googleapis/python-speech/issues/313)) ([86fe8ea](https://github.com/googleapis/python-speech/commit/86fe8ea626c95b9dd98345777739013b9fd1b0f3))
+
 ## [2.12.0](https://github.com/googleapis/python-speech/compare/v2.11.1...v2.12.0) (2022-01-17)
 
 
